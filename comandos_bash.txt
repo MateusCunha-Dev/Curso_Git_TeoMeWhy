@@ -4,4 +4,8 @@ cd = muda de diretório
 pwd = caminho absoluto de onde estou
 ls -a = arquivos oculto 
 cd .. = Volta para o diretório pai (um nível acima)
-cat "arquivo" = para visualizar o conteudo
+cat "arquivo" = para visualizar o conteúdo
+rm = remove arquivo do diretorio
+nano "nome_arquivo" entra no editor de texto nano
+ctrl o = salva alteração no arquivo
+ctrl x = sai do editor nano
