@@ -9,3 +9,4 @@ rm = remove arquivo do diretorio
 nano "nome_arquivo" entra no editor de texto nano
 ctrl o = salva alteração no arquivo
 ctrl x = sai do editor nano
+rm -rf = remove de forma recursiva e forçada todos os diretórios (muito cuidado)
