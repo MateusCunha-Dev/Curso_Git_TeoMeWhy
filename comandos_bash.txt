@@ -1,0 +1,7 @@
+GIT - Aula 02
+ls = lista o que existe no diretório
+cd = muda de diretório
+pwd = caminho absoluto de onde estou
+ls -a = arquivos oculto 
+cd .. = Volta para o diretório pai (um nível acima)
+cat "arquivo" = para visualizar o conteudo
