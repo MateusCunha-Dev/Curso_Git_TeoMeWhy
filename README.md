@@ -1,4 +1,7 @@
-\#Curso TeoMeWhy Git \& GitHub
+\# Curso TeoMeWhy Git \& GitHub
 
-Curso para recapitular o básico de versionamento
+
+
+Curso para recapitular o básico de versionamento.
+
 
